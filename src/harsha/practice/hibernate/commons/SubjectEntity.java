@@ -29,7 +29,6 @@ public class SubjectEntity {
 	}
 
 	public void setSubjectId(String subjectId) {
-		System.out.println("setting subject Id");
 		this.subjectId = subjectId;
 	}
 
@@ -38,7 +37,6 @@ public class SubjectEntity {
 	}
 
 	public void setSubjectName(String subjectName) {
-		System.out.println("setting subject name");
 		this.subjectName = subjectName;
 	}
 
